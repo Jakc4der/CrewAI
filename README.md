@@ -1,0 +1,2 @@
+# CrewAI
+crewai copy
